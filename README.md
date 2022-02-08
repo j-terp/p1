@@ -39,3 +39,13 @@ The TSP module calculates the shortest path using a list of points.
 ## License
 
 This project is under MIT License
+
+## Credits
+
+- Andreas Holt - [@AndreasHolt](https://github.com/AndreasHolt)
+- Jonas Nagstrup Terp - [@j-terp](https://github.com/j-terp)
+- Jonathan Dam Pedersen - [@JonathanDamDK](https://github.com/JonathanDamDK)
+- Magnus Hem Jensen - [@MHEM11](https://github.com/MHEM11)
+- Mathias Andersen - [@Mathiasea](https://github.com/Mathiasea)
+- Tobias Surland Madsen - [@Tosuma](https://github.com/Tosuma)
+- Theis Mathiasen - [@Theis-Mathiassen](https://github.com/Theis-Mathiassen)
